@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Mesh Town
+Label: Mesh Town
+Suite: stable
+Codename: stable
+Date: Fri, 06 Nov 2026 22:52:32 GMT
+Architectures: amd64 arm64 armhf
+Components: main
+Description: townjump packages
+Acquire-By-Hash: yes
+SHA256:
+ b8b401d2e5c29f132f1c1891bed5cecbe5229b71d1ce4f9f1e59ae29dffa2067 585 main/binary-amd64/Packages
+ 28b5434d5698115cf5c1ad17b7a22254f3d02eaa7db620f5338baf05db461e53 393 main/binary-amd64/Packages.gz
+ 5e0fff880ef08233ef7ab9021cea4ed3c18cabf3550b3a7815f547c052e51e9c 585 main/binary-arm64/Packages
+ 53ff3531d56e5bafcba0f6f9340ac5504fc7ba1cb9f846b3e8fb82e18b99cebd 390 main/binary-arm64/Packages.gz
+ 0f70b5e56896f7d2452973e09ee00cbd600f1dfb8c7628372eec9bc70469b5fb 585 main/binary-armhf/Packages
+ 1bded455a4969083c2d9774b33fbc7c2625c33cf4212414f99d729b27b3baf53 391 main/binary-armhf/Packages.gz
+SHA512:
+ 253729a1bb9d78d42b4f0c21983b430a9f4ca6157ff77418fbd5d060c2cf7d0b65462cec4487a619e67d9655a991d9b4d17c49f13ce66c80c7345e05a700585b 585 main/binary-amd64/Packages
+ de2589a0b41f8091012210fa9fdb962bb38fb4b7bb39e4e7848496ff6924e94306601e1a2f23f5844404ecc6aab09a90bb104b7ca7def460a570f0983c395496 393 main/binary-amd64/Packages.gz
+ f692b3932f4fde5c3fcbafecce8022197ac916a70e7ea7eac5957332606694ac95adae5d4f78246b1664c2dfad9c9351009168af8ee810e799a7a8356150ddaf 585 main/binary-arm64/Packages
+ aa5a715a1b7130294de51af2259cecb0e8c0466c77e6aaffbba988bfa15e9c8f86b6f474284eb6b790201475d31b97981a4b2550bddf2179e65254e47a1696a3 390 main/binary-arm64/Packages.gz
+ 0919a5ff988140a31b08ee0028e1387fff814ba2c6e6487e1e9d7494ec5ea66e4955b0926b72a23ee9554e1f91f5bf5e464f73bd76eb107762189b0e38fdd9e7 585 main/binary-armhf/Packages
+ 6058077171297be9d8ce1f6202b24b10701b19d254fd643bee658486bdc2465a7d36de6940667d06ea211c7d3758350d9bc96c09515fb57d2408dd7e62da5c4a 391 main/binary-armhf/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQSb+5xxCL9SYW99qnMnQm81lEBggUCau5aMAAKCRDMnQm81lEB
+gukpAQDW8cYXCwt8FmzPW8jNnDNWarmrdxRZzdiajz0aCr8ncgD/UOWvNUBNf3T1
+CwYx9zpUo/HRQmOLRl1Qy19xF23gjQ8=
+=9iy8
+-----END PGP SIGNATURE-----

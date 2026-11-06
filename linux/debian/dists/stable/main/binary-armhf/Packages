@@ -1,0 +1,14 @@
+Package: townjump
+Version: 0.1.20-1
+Architecture: armhf
+Maintainer: Mesh Town <340663027+mesh-town@users.noreply.github.com>
+Installed-Size: 4975
+Section: net
+Priority: optional
+Homepage: https://mesh-town.github.io/townjump/
+Filename: pool/main/t/townjump/townjump_0.1.20-1_armhf.deb
+Size: 2572182
+SHA256: e583a8107187f4a5a51b4f6dc085f2743e85356be3c05bbb9df89be5a75bd054
+Description: Share a local port over a peer-to-peer tunnel with one key
+ Single-binary Rust port of Holesail: share a local port over a peer-to-peer tunnel,
+ reach it anywhere with one key. No server of your own.

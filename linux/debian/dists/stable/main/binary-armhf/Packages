@@ -1,0 +1,59 @@
+Package: townjump
+Version: 0.1.20-1
+Architecture: armhf
+Maintainer: Mesh Town <340663027+mesh-town@users.noreply.github.com>
+Installed-Size: 4975
+Section: net
+Priority: optional
+Homepage: https://mesh-town.github.io/townjump/
+Filename: pool/main/t/townjump/townjump_0.1.20-1_armhf.deb
+Size: 2572182
+SHA256: e583a8107187f4a5a51b4f6dc085f2743e85356be3c05bbb9df89be5a75bd054
+Description: Share a local port over a peer-to-peer tunnel with one key
+ Single-binary Rust port of Holesail: share a local port over a peer-to-peer tunnel,
+ reach it anywhere with one key. No server of your own.
+
+Package: townjump
+Version: 0.1.24-1
+Architecture: armhf
+Maintainer: Mesh Town <340663027+mesh-town@users.noreply.github.com>
+Installed-Size: 4998
+Section: net
+Priority: optional
+Homepage: https://mesh-town.github.io/townjump/
+Filename: pool/main/t/townjump/townjump_0.1.24-1_armhf.deb
+Size: 2582550
+SHA256: ddc6459d22a007490f9e38791eba30c57412840b862040a8d0026bb70bc8fabd
+Description: Share a local port over a peer-to-peer tunnel with one key
+ Single-binary Rust port of Holesail: share a local port over a peer-to-peer tunnel,
+ reach it anywhere with one key. No server of your own.
+
+Package: townjump
+Version: 0.1.26-1
+Architecture: armhf
+Maintainer: Mesh Town <340663027+mesh-town@users.noreply.github.com>
+Installed-Size: 5000
+Section: net
+Priority: optional
+Homepage: https://mesh-town.github.io/townjump/
+Filename: pool/main/t/townjump/townjump_0.1.26-1_armhf.deb
+Size: 2583968
+SHA256: 1edf15d296990af8a80381dcab7bc37cdd15e9c50b0b0f2efc44dd1cab35ca63
+Description: Share a local port over a peer-to-peer tunnel with one key
+ Single-binary Rust port of Holesail: share a local port over a peer-to-peer tunnel,
+ reach it anywhere with one key. No server of your own.
+
+Package: townjump
+Version: 0.1.27-1
+Architecture: armhf
+Maintainer: Mesh Town <340663027+mesh-town@users.noreply.github.com>
+Installed-Size: 5009
+Section: net
+Priority: optional
+Homepage: https://mesh-town.github.io/townjump/
+Filename: pool/main/t/townjump/townjump_0.1.27-1_armhf.deb
+Size: 2588934
+SHA256: a6a2495e395c50d15a6fcfd16787b61da41e9e505c4052344be8d90e0567fd9d
+Description: Share a local port over a peer-to-peer tunnel with one key
+ Single-binary Rust port of Holesail: share a local port over a peer-to-peer tunnel,
+ reach it anywhere with one key. No server of your own.

@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Mesh Town
+Label: Mesh Town
+Suite: stable
+Codename: stable
+Date: Sat, 21 Nov 2026 20:19:59 GMT
+Architectures: amd64 arm64 armhf
+Components: main
+Description: townjump packages
+Acquire-By-Hash: yes
+SHA256:
+ 0d91c7bf05efc1ea7b0ef07fd7c438d2bfa21cccb2080c910b8dc9f9b8bfd14c 2343 main/binary-amd64/Packages
+ ff83f753c2cbe695c4acd7a94f4d4f357a13aa026c6336d4e9bfe0d505936352 584 main/binary-amd64/Packages.gz
+ 5687982b728bfc3768616ec0c7a6f0124f714edd6820bdd5863137421b6e0668 2343 main/binary-arm64/Packages
+ 6dd842e17a59b97e40c80b013d014fe0101a7cb02f00b0c83be923edaece89f2 587 main/binary-arm64/Packages.gz
+ c200a3a5aefb8e49dbeecb97a7dc40e121cfa030423e3ef6e824afaf4b905fc4 2343 main/binary-armhf/Packages
+ 177556159396128a275fb8ba6e7147f2c134e77469092783d7e0d268e4a73094 587 main/binary-armhf/Packages.gz
+SHA512:
+ 11a76a8ed58c2f75934904a34b02d2e0e5ffd02bcac52a223ed21b6a5efb52067429c6bb5d76ba8c8ad33e54cb6f4ef61d4ffb2cdab5c9465639ef8a132bcb3f 2343 main/binary-amd64/Packages
+ 69657e2efb72d438399ff45e2ed6540b648fae25493bca92877ccb034a6a50f9cc7aac32dfe345ed623eba2a8cc4ec8f89083e54637c71b4f4c03c634b8a902d 584 main/binary-amd64/Packages.gz
+ c5a8cda0f23a03213de9f82ef9d375dbe19e807beedfdf9b9124f1952341a6c25fb987828be9563f41d22af09881337d77ce1e7b3d48c6e96125345a8a3644ff 2343 main/binary-arm64/Packages
+ e432d16261b47a66f196602ad003aed2cc3dba66ff37b58fe7cd96d5dc2a428b586818d7911d6702d2e0bbbf094cbab093bc9e5ecf64906ae5f90de314bad54e 587 main/binary-arm64/Packages.gz
+ 6fb4f45463df0f93073e943ffdd2ffdf8bcca92439e5fa05155ec1a77efe21df4b6aed1d1560d9b6c85ed8d665c0ae382ef5e2a34a5e19f2394dddff67594a5c 2343 main/binary-armhf/Packages
+ a731d22862e6b12932b68bf147b98d44ed7113f0f7a9fcf4e5709571c2408e1e2dfa5ab8404d10274b7a570ad835737126640105b6ba7d002543caa008eff119 587 main/binary-armhf/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQSb+5xxCL9SYW99qnMnQm81lEBggUCawH87wAKCRDMnQm81lEB
+ghwbAQD/s/M4W1OlFy14IKr/x4adPGzsDAuczsD3pzwAc/LYFQEA7pJAjxhSLc59
+Dtlj7Fkv5qAaNuYiXY6ITPSQ9i7DEQI=
+=/uIP
+-----END PGP SIGNATURE-----
